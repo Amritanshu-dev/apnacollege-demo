@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository
 <br>
-Author - Amritanshu Shreshth
+Author - Amritanshu Shreshth (demo)
